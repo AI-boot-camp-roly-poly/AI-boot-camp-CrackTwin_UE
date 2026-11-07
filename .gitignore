@@ -16,6 +16,7 @@
 *.odp
 *.rtf
 /docs/
+!/README.md
 
 # Unreal generated files (including plugins)
 Binaries/
@@ -27,15 +28,16 @@ DerivedDataCache/
 
 # Marketplace (Fab) assets - not redistributed in this public repository.
 # Their licenses do not allow redistribution, and they exceed the GitHub LFS
-# quota (about 1.4 GB). To open the project, add them from Fab yourself:
-#   - DynamicMeshCreator  -> Content/DynamicMeshCreator/
-#   - Megascans           -> Content/Fab/
-#       Surfaces: Dirty Concrete Floor
-#       Decals:   Concrete Crack (sdnqgfi, sezrfcg, sfilvlg), Asphalt Crack,
-#                 Concrete Patch, Rock Patch, Military Trenches Metal Rust 01
-# Without them the levels still open, but the referenced meshes, materials
-# and textures show as missing.
-/Content/DynamicMeshCreator/
+# quota (about 1.4 GB). Add them from Fab yourself; see README.md.
+# Only the project levels in Content/DynamicMeshCreator/Map/ are tracked
+# (Main = default map with the crack decals, ChineseCity = its sublevel).
+/Content/DynamicMeshCreator/*
+!/Content/DynamicMeshCreator/Map/
+/Content/DynamicMeshCreator/Map/*
+!/Content/DynamicMeshCreator/Map/Main.umap
+!/Content/DynamicMeshCreator/Map/Main_BuiltData.uasset
+!/Content/DynamicMeshCreator/Map/ChineseCity.umap
+!/Content/DynamicMeshCreator/Map/ChineseCity_BuiltData.uasset
 /Content/Fab/
 
 # Local IDE and agent configuration
