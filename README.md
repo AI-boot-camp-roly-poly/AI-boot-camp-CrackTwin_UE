@@ -10,7 +10,7 @@
 
 ```powershell
 git lfs install
-git clone https://github.com/AI-boot-camp-roly-poly/-AI-boot-camp-CrackTwin_UE.git
+git clone https://github.com/AI-boot-camp-roly-poly/AI-boot-camp-CrackTwin_UE.git
 ```
 
 ## Fab 에셋을 따로 받아야 합니다
