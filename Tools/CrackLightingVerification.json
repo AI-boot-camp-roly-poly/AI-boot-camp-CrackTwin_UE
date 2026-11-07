@@ -1,0 +1,1309 @@
+{
+    "before":  {
+                   "points":  [
+                                  {
+                                      "slot":  1,
+                                      "transform":  {
+                                                        "location":  {
+                                                                         "x":  47251.66599304589,
+                                                                         "y":  108881.03182891458,
+                                                                         "z":  14669.375900904593
+                                                                     },
+                                                        "rotation":  {
+                                                                         "pitch":  -3.99867952896922E-15,
+                                                                         "yaw":  -137.62149657730893,
+                                                                         "roll":  -1.69449775171234E-15
+                                                                     },
+                                                        "scale":  {
+                                                                      "x":  1,
+                                                                      "y":  1,
+                                                                      "z":  1
+                                                                  }
+                                                    },
+                                      "material":  "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_Branch.MI_Crack_Inspection_Branch",
+                                      "parameters":  {
+                                                         "Parent":  {
+                                                                        "refPath":  "/Game/Fab/Megascans/Decals/Concrete_Crack_sezrfcg/Raw/sezrfcg_tier_0/Materials/MI_sezrfcg.MI_sezrfcg"
+                                                                    },
+                                                         "TextureParameterValues":  [
+
+                                                                                    ],
+                                                         "ScalarParameterValues":  [
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Normal Intensity",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  2.5,
+                                                                                           "expressionGUId":  "4780572A-4A18-5C51-521E-D595D3E14A2F"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Opacity Intensity",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.800000011920929,
+                                                                                           "expressionGUId":  "16846A63-42C9-EF33-D019-DFA72727FA53"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Min Roughness",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.550000011920929,
+                                                                                           "expressionGUId":  "33AF38BF-476A-C867-4562-059C5F4DFE65"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Max Roughness",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.8500000238418579,
+                                                                                           "expressionGUId":  "04B8CF59-4579-D5C7-A0E7-F6B36F8786B3"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Specular",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.3499999940395355,
+                                                                                           "expressionGUId":  "F9B55644-4C6B-4751-CF3C-999C84843B25"
+                                                                                       }
+                                                                                   ]
+                                                     },
+                                      "normalSettings":  [
+
+                                                         ]
+                                  },
+                                  {
+                                      "slot":  2,
+                                      "transform":  {
+                                                        "location":  {
+                                                                         "x":  46649.673972359895,
+                                                                         "y":  109956.20884086675,
+                                                                         "z":  7869.3759009045925
+                                                                     },
+                                                        "rotation":  {
+                                                                         "pitch":  0,
+                                                                         "yaw":  -137.62149657730893,
+                                                                         "roll":  89.99999999999991
+                                                                     },
+                                                        "scale":  {
+                                                                      "x":  1,
+                                                                      "y":  1,
+                                                                      "z":  1
+                                                                  }
+                                                    },
+                                      "material":  "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_Line.MI_Crack_Inspection_Line",
+                                      "parameters":  {
+                                                         "Parent":  {
+                                                                        "refPath":  "/Game/Fab/Megascans/Decals/Concrete_Crack_sfilvlg/Raw/sfilvlg_tier_0/Materials/MI_sfilvlg.MI_sfilvlg"
+                                                                    },
+                                                         "TextureParameterValues":  [
+
+                                                                                    ],
+                                                         "ScalarParameterValues":  [
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Normal Intensity",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  2.5,
+                                                                                           "expressionGUId":  "4780572A-4A18-5C51-521E-D595D3E14A2F"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Opacity Intensity",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.800000011920929,
+                                                                                           "expressionGUId":  "16846A63-42C9-EF33-D019-DFA72727FA53"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Min Roughness",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.550000011920929,
+                                                                                           "expressionGUId":  "33AF38BF-476A-C867-4562-059C5F4DFE65"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Max Roughness",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.8500000238418579,
+                                                                                           "expressionGUId":  "04B8CF59-4579-D5C7-A0E7-F6B36F8786B3"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Specular",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.3499999940395355,
+                                                                                           "expressionGUId":  "F9B55644-4C6B-4751-CF3C-999C84843B25"
+                                                                                       }
+                                                                                   ]
+                                                     },
+                                      "normalSettings":  [
+
+                                                         ]
+                                  },
+                                  {
+                                      "slot":  3,
+                                      "transform":  {
+                                                        "location":  {
+                                                                         "x":  47426.97254294293,
+                                                                         "y":  111782.25772169649,
+                                                                         "z":  11469.375900904593
+                                                                     },
+                                                        "rotation":  {
+                                                                         "pitch":  -1.6944977517123417E-15,
+                                                                         "yaw":  132.37850342269107,
+                                                                         "roll":  3.9986795289692237E-15
+                                                                     },
+                                                        "scale":  {
+                                                                      "x":  1,
+                                                                      "y":  1,
+                                                                      "z":  1
+                                                                  }
+                                                    },
+                                      "material":  "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_Line.MI_Crack_Inspection_Line",
+                                      "parameters":  {
+                                                         "Parent":  {
+                                                                        "refPath":  "/Game/Fab/Megascans/Decals/Concrete_Crack_sfilvlg/Raw/sfilvlg_tier_0/Materials/MI_sfilvlg.MI_sfilvlg"
+                                                                    },
+                                                         "TextureParameterValues":  [
+
+                                                                                    ],
+                                                         "ScalarParameterValues":  [
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Normal Intensity",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  2.5,
+                                                                                           "expressionGUId":  "4780572A-4A18-5C51-521E-D595D3E14A2F"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Opacity Intensity",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.800000011920929,
+                                                                                           "expressionGUId":  "16846A63-42C9-EF33-D019-DFA72727FA53"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Min Roughness",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.550000011920929,
+                                                                                           "expressionGUId":  "33AF38BF-476A-C867-4562-059C5F4DFE65"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Max Roughness",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.8500000238418579,
+                                                                                           "expressionGUId":  "04B8CF59-4579-D5C7-A0E7-F6B36F8786B3"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Specular",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.3499999940395355,
+                                                                                           "expressionGUId":  "F9B55644-4C6B-4751-CF3C-999C84843B25"
+                                                                                       }
+                                                                                   ]
+                                                     },
+                                      "normalSettings":  [
+
+                                                         ]
+                                  },
+                                  {
+                                      "slot":  4,
+                                      "transform":  {
+                                                        "location":  {
+                                                                         "x":  52812.37539011033,
+                                                                         "y":  116391.51856423335,
+                                                                         "z":  14669.375900904593
+                                                                     },
+                                                        "rotation":  {
+                                                                         "pitch":  6.3611093629270335E-15,
+                                                                         "yaw":  42.378503422691026,
+                                                                         "roll":  74.99999999999993
+                                                                     },
+                                                        "scale":  {
+                                                                      "x":  1,
+                                                                      "y":  1,
+                                                                      "z":  1
+                                                                  }
+                                                    },
+                                      "material":  "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_04.MI_Crack_Inspection_04",
+                                      "parameters":  {
+                                                         "Parent":  {
+                                                                        "refPath":  "/Game/Fab/Materials/Standard/M_MS_Decal.M_MS_Decal"
+                                                                    },
+                                                         "TextureParameterValues":  [
+                                                                                        {
+                                                                                            "parameterInfo":  {
+                                                                                                                  "name":  "BaseColorTexture",
+                                                                                                                  "association":  "GlobalParameter",
+                                                                                                                  "index":  -1
+                                                                                                              },
+                                                                                            "parameterValue":  {
+                                                                                                                   "refPath":  "/Game/Buildings/SkybayHotel/InspectionTextures/T_Inspection_04_Bevel_D.T_Inspection_04_Bevel_D"
+                                                                                                               },
+                                                                                            "expressionGUId":  "750E73C4-4F6D-0137-944B-84B0AB603C26"
+                                                                                        },
+                                                                                        {
+                                                                                            "parameterInfo":  {
+                                                                                                                  "name":  "NormalTexture",
+                                                                                                                  "association":  "GlobalParameter",
+                                                                                                                  "index":  -1
+                                                                                                              },
+                                                                                            "parameterValue":  {
+                                                                                                                   "refPath":  "/Game/Buildings/SkybayHotel/InspectionTextures/T_Inspection_04_Bevel_N.T_Inspection_04_Bevel_N"
+                                                                                                               },
+                                                                                            "expressionGUId":  "BCA18AB8-412E-01C7-F3E4-428A1ED47C2E"
+                                                                                        },
+                                                                                        {
+                                                                                            "parameterInfo":  {
+                                                                                                                  "name":  "MetallicRoughnessTexture",
+                                                                                                                  "association":  "GlobalParameter",
+                                                                                                                  "index":  -1
+                                                                                                              },
+                                                                                            "parameterValue":  {
+                                                                                                                   "refPath":  "/Game/Buildings/SkybayHotel/InspectionTextures/T_Inspection_04_Bevel_ORM.T_Inspection_04_Bevel_ORM"
+                                                                                                               },
+                                                                                            "expressionGUId":  "D5A94692-4AC4-D6DA-E67D-09979AC3E9CB"
+                                                                                        }
+                                                                                    ],
+                                                         "ScalarParameterValues":  [
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Normal Intensity",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  2.5,
+                                                                                           "expressionGUId":  "4780572A-4A18-5C51-521E-D595D3E14A2F"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Opacity Intensity",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  1,
+                                                                                           "expressionGUId":  "16846A63-42C9-EF33-D019-DFA72727FA53"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Min Roughness",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.5,
+                                                                                           "expressionGUId":  "33AF38BF-476A-C867-4562-059C5F4DFE65"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Max Roughness",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.800000011920929,
+                                                                                           "expressionGUId":  "04B8CF59-4579-D5C7-A0E7-F6B36F8786B3"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Specular",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.4000000059604645,
+                                                                                           "expressionGUId":  "F9B55644-4C6B-4751-CF3C-999C84843B25"
+                                                                                       }
+                                                                                   ]
+                                                     },
+                                      "normalSettings":  [
+                                                             {
+                                                                 "SRGB":  false,
+                                                                 "CompressionSettings":  "TC_Normalmap",
+                                                                 "bFlipGreenChannel":  false
+                                                             }
+                                                         ]
+                                  },
+                                  {
+                                      "slot":  5,
+                                      "transform":  {
+                                                        "location":  {
+                                                                         "x":  49504.33067148017,
+                                                                         "y":  108763.73349234473,
+                                                                         "z":  14669.375900904593
+                                                                     },
+                                                        "rotation":  {
+                                                                         "pitch":  0,
+                                                                         "yaw":  -47.621496577308925,
+                                                                         "roll":  105.00000000000003
+                                                                     },
+                                                        "scale":  {
+                                                                      "x":  1,
+                                                                      "y":  1,
+                                                                      "z":  1
+                                                                  }
+                                                    },
+                                      "material":  "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_05.MI_Crack_Inspection_05",
+                                      "parameters":  {
+                                                         "Parent":  {
+                                                                        "refPath":  "/Game/Fab/Materials/Standard/M_MS_Decal.M_MS_Decal"
+                                                                    },
+                                                         "TextureParameterValues":  [
+                                                                                        {
+                                                                                            "parameterInfo":  {
+                                                                                                                  "name":  "BaseColorTexture",
+                                                                                                                  "association":  "GlobalParameter",
+                                                                                                                  "index":  -1
+                                                                                                              },
+                                                                                            "parameterValue":  {
+                                                                                                                   "refPath":  "/Game/Buildings/SkybayHotel/InspectionTextures/T_Inspection_05_Bevel_D.T_Inspection_05_Bevel_D"
+                                                                                                               },
+                                                                                            "expressionGUId":  "750E73C4-4F6D-0137-944B-84B0AB603C26"
+                                                                                        },
+                                                                                        {
+                                                                                            "parameterInfo":  {
+                                                                                                                  "name":  "NormalTexture",
+                                                                                                                  "association":  "GlobalParameter",
+                                                                                                                  "index":  -1
+                                                                                                              },
+                                                                                            "parameterValue":  {
+                                                                                                                   "refPath":  "/Game/Buildings/SkybayHotel/InspectionTextures/T_Inspection_05_Bevel_N.T_Inspection_05_Bevel_N"
+                                                                                                               },
+                                                                                            "expressionGUId":  "BCA18AB8-412E-01C7-F3E4-428A1ED47C2E"
+                                                                                        },
+                                                                                        {
+                                                                                            "parameterInfo":  {
+                                                                                                                  "name":  "MetallicRoughnessTexture",
+                                                                                                                  "association":  "GlobalParameter",
+                                                                                                                  "index":  -1
+                                                                                                              },
+                                                                                            "parameterValue":  {
+                                                                                                                   "refPath":  "/Game/Buildings/SkybayHotel/InspectionTextures/T_Inspection_05_Bevel_ORM.T_Inspection_05_Bevel_ORM"
+                                                                                                               },
+                                                                                            "expressionGUId":  "D5A94692-4AC4-D6DA-E67D-09979AC3E9CB"
+                                                                                        }
+                                                                                    ],
+                                                         "ScalarParameterValues":  [
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Normal Intensity",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  2.5,
+                                                                                           "expressionGUId":  "4780572A-4A18-5C51-521E-D595D3E14A2F"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Opacity Intensity",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  1,
+                                                                                           "expressionGUId":  "16846A63-42C9-EF33-D019-DFA72727FA53"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Min Roughness",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.5,
+                                                                                           "expressionGUId":  "33AF38BF-476A-C867-4562-059C5F4DFE65"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Max Roughness",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.800000011920929,
+                                                                                           "expressionGUId":  "04B8CF59-4579-D5C7-A0E7-F6B36F8786B3"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Specular",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.4000000059604645,
+                                                                                           "expressionGUId":  "F9B55644-4C6B-4751-CF3C-999C84843B25"
+                                                                                       }
+                                                                                   ]
+                                                     },
+                                      "normalSettings":  [
+                                                             {
+                                                                 "SRGB":  false,
+                                                                 "CompressionSettings":  "TC_Normalmap",
+                                                                 "bFlipGreenChannel":  false
+                                                             }
+                                                         ]
+                                  },
+                                  {
+                                      "slot":  6,
+                                      "transform":  {
+                                                        "location":  {
+                                                                         "x":  53761.33376314178,
+                                                                         "y":  112999.94933641874,
+                                                                         "z":  13869.375900904593
+                                                                     },
+                                                        "rotation":  {
+                                                                         "pitch":  -3.1805546814635168E-15,
+                                                                         "yaw":  -47.62149657730894,
+                                                                         "roll":  90
+                                                                     },
+                                                        "scale":  {
+                                                                      "x":  1,
+                                                                      "y":  1,
+                                                                      "z":  1
+                                                                  }
+                                                    },
+                                      "material":  "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_06.MI_Crack_Inspection_06",
+                                      "parameters":  {
+                                                         "Parent":  {
+                                                                        "refPath":  "/Game/Fab/Materials/Standard/M_MS_Decal.M_MS_Decal"
+                                                                    },
+                                                         "TextureParameterValues":  [
+                                                                                        {
+                                                                                            "parameterInfo":  {
+                                                                                                                  "name":  "BaseColorTexture",
+                                                                                                                  "association":  "GlobalParameter",
+                                                                                                                  "index":  -1
+                                                                                                              },
+                                                                                            "parameterValue":  {
+                                                                                                                   "refPath":  "/Game/Buildings/SkybayHotel/InspectionTextures/T_Inspection_06_Bevel_D.T_Inspection_06_Bevel_D"
+                                                                                                               },
+                                                                                            "expressionGUId":  "750E73C4-4F6D-0137-944B-84B0AB603C26"
+                                                                                        },
+                                                                                        {
+                                                                                            "parameterInfo":  {
+                                                                                                                  "name":  "NormalTexture",
+                                                                                                                  "association":  "GlobalParameter",
+                                                                                                                  "index":  -1
+                                                                                                              },
+                                                                                            "parameterValue":  {
+                                                                                                                   "refPath":  "/Game/Buildings/SkybayHotel/InspectionTextures/T_Inspection_06_Bevel_N.T_Inspection_06_Bevel_N"
+                                                                                                               },
+                                                                                            "expressionGUId":  "BCA18AB8-412E-01C7-F3E4-428A1ED47C2E"
+                                                                                        },
+                                                                                        {
+                                                                                            "parameterInfo":  {
+                                                                                                                  "name":  "MetallicRoughnessTexture",
+                                                                                                                  "association":  "GlobalParameter",
+                                                                                                                  "index":  -1
+                                                                                                              },
+                                                                                            "parameterValue":  {
+                                                                                                                   "refPath":  "/Game/Buildings/SkybayHotel/InspectionTextures/T_Inspection_06_Bevel_ORM.T_Inspection_06_Bevel_ORM"
+                                                                                                               },
+                                                                                            "expressionGUId":  "D5A94692-4AC4-D6DA-E67D-09979AC3E9CB"
+                                                                                        }
+                                                                                    ],
+                                                         "ScalarParameterValues":  [
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Normal Intensity",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  2.5,
+                                                                                           "expressionGUId":  "4780572A-4A18-5C51-521E-D595D3E14A2F"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Opacity Intensity",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  1,
+                                                                                           "expressionGUId":  "16846A63-42C9-EF33-D019-DFA72727FA53"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Min Roughness",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.5,
+                                                                                           "expressionGUId":  "33AF38BF-476A-C867-4562-059C5F4DFE65"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Max Roughness",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.800000011920929,
+                                                                                           "expressionGUId":  "04B8CF59-4579-D5C7-A0E7-F6B36F8786B3"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Specular",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.4000000059604645,
+                                                                                           "expressionGUId":  "F9B55644-4C6B-4751-CF3C-999C84843B25"
+                                                                                       }
+                                                                                   ]
+                                                     },
+                                      "normalSettings":  [
+                                                             {
+                                                                 "SRGB":  false,
+                                                                 "CompressionSettings":  "TC_Normalmap",
+                                                                 "bFlipGreenChannel":  false
+                                                             }
+                                                         ]
+                                  },
+                                  {
+                                      "slot":  7,
+                                      "transform":  {
+                                                        "location":  {
+                                                                         "x":  48990.65311192002,
+                                                                         "y":  113777.57786216759,
+                                                                         "z":  13869.375900904593
+                                                                     },
+                                                        "rotation":  {
+                                                                         "pitch":  -3.1805546814635168E-15,
+                                                                         "yaw":  132.37850342269107,
+                                                                         "roll":  80
+                                                                     },
+                                                        "scale":  {
+                                                                      "x":  1,
+                                                                      "y":  1,
+                                                                      "z":  1
+                                                                  }
+                                                    },
+                                      "material":  "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_07.MI_Crack_Inspection_07",
+                                      "parameters":  {
+                                                         "Parent":  {
+                                                                        "refPath":  "/Game/Fab/Materials/Standard/M_MS_Decal.M_MS_Decal"
+                                                                    },
+                                                         "TextureParameterValues":  [
+                                                                                        {
+                                                                                            "parameterInfo":  {
+                                                                                                                  "name":  "BaseColorTexture",
+                                                                                                                  "association":  "GlobalParameter",
+                                                                                                                  "index":  -1
+                                                                                                              },
+                                                                                            "parameterValue":  {
+                                                                                                                   "refPath":  "/Game/Buildings/SkybayHotel/InspectionTextures/T_Inspection_07_Bevel_D.T_Inspection_07_Bevel_D"
+                                                                                                               },
+                                                                                            "expressionGUId":  "750E73C4-4F6D-0137-944B-84B0AB603C26"
+                                                                                        },
+                                                                                        {
+                                                                                            "parameterInfo":  {
+                                                                                                                  "name":  "NormalTexture",
+                                                                                                                  "association":  "GlobalParameter",
+                                                                                                                  "index":  -1
+                                                                                                              },
+                                                                                            "parameterValue":  {
+                                                                                                                   "refPath":  "/Game/Buildings/SkybayHotel/InspectionTextures/T_Inspection_07_Bevel_N.T_Inspection_07_Bevel_N"
+                                                                                                               },
+                                                                                            "expressionGUId":  "BCA18AB8-412E-01C7-F3E4-428A1ED47C2E"
+                                                                                        },
+                                                                                        {
+                                                                                            "parameterInfo":  {
+                                                                                                                  "name":  "MetallicRoughnessTexture",
+                                                                                                                  "association":  "GlobalParameter",
+                                                                                                                  "index":  -1
+                                                                                                              },
+                                                                                            "parameterValue":  {
+                                                                                                                   "refPath":  "/Game/Buildings/SkybayHotel/InspectionTextures/T_Inspection_07_Bevel_ORM.T_Inspection_07_Bevel_ORM"
+                                                                                                               },
+                                                                                            "expressionGUId":  "D5A94692-4AC4-D6DA-E67D-09979AC3E9CB"
+                                                                                        }
+                                                                                    ],
+                                                         "ScalarParameterValues":  [
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Normal Intensity",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  2.5,
+                                                                                           "expressionGUId":  "4780572A-4A18-5C51-521E-D595D3E14A2F"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Opacity Intensity",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  1,
+                                                                                           "expressionGUId":  "16846A63-42C9-EF33-D019-DFA72727FA53"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Min Roughness",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.5,
+                                                                                           "expressionGUId":  "33AF38BF-476A-C867-4562-059C5F4DFE65"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Max Roughness",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.800000011920929,
+                                                                                           "expressionGUId":  "04B8CF59-4579-D5C7-A0E7-F6B36F8786B3"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Specular",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.4000000059604645,
+                                                                                           "expressionGUId":  "F9B55644-4C6B-4751-CF3C-999C84843B25"
+                                                                                       }
+                                                                                   ]
+                                                     },
+                                      "normalSettings":  [
+                                                             {
+                                                                 "SRGB":  false,
+                                                                 "CompressionSettings":  "TC_Normalmap",
+                                                                 "bFlipGreenChannel":  false
+                                                             }
+                                                         ]
+                                  },
+                                  {
+                                      "slot":  8,
+                                      "transform":  {
+                                                        "location":  {
+                                                                         "x":  47397.57008209702,
+                                                                         "y":  109284.90309156911,
+                                                                         "z":  10409.375900904592
+                                                                     },
+                                                        "rotation":  {
+                                                                         "pitch":  -6.3611093629270335E-15,
+                                                                         "yaw":  -137.62149657730893,
+                                                                         "roll":  89.99999999999993
+                                                                     },
+                                                        "scale":  {
+                                                                      "x":  1,
+                                                                      "y":  1,
+                                                                      "z":  1
+                                                                  }
+                                                    },
+                                      "material":  "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_08.MI_Crack_Inspection_08",
+                                      "parameters":  {
+                                                         "Parent":  {
+                                                                        "refPath":  "/Game/Fab/Materials/Standard/M_MS_Decal.M_MS_Decal"
+                                                                    },
+                                                         "TextureParameterValues":  [
+                                                                                        {
+                                                                                            "parameterInfo":  {
+                                                                                                                  "name":  "BaseColorTexture",
+                                                                                                                  "association":  "GlobalParameter",
+                                                                                                                  "index":  -1
+                                                                                                              },
+                                                                                            "parameterValue":  {
+                                                                                                                   "refPath":  "/Game/Buildings/SkybayHotel/InspectionTextures/T_Inspection_08_Bevel_D.T_Inspection_08_Bevel_D"
+                                                                                                               },
+                                                                                            "expressionGUId":  "750E73C4-4F6D-0137-944B-84B0AB603C26"
+                                                                                        },
+                                                                                        {
+                                                                                            "parameterInfo":  {
+                                                                                                                  "name":  "NormalTexture",
+                                                                                                                  "association":  "GlobalParameter",
+                                                                                                                  "index":  -1
+                                                                                                              },
+                                                                                            "parameterValue":  {
+                                                                                                                   "refPath":  "/Game/Buildings/SkybayHotel/InspectionTextures/T_Inspection_08_Bevel_N.T_Inspection_08_Bevel_N"
+                                                                                                               },
+                                                                                            "expressionGUId":  "BCA18AB8-412E-01C7-F3E4-428A1ED47C2E"
+                                                                                        },
+                                                                                        {
+                                                                                            "parameterInfo":  {
+                                                                                                                  "name":  "MetallicRoughnessTexture",
+                                                                                                                  "association":  "GlobalParameter",
+                                                                                                                  "index":  -1
+                                                                                                              },
+                                                                                            "parameterValue":  {
+                                                                                                                   "refPath":  "/Game/Buildings/SkybayHotel/InspectionTextures/T_Inspection_08_Bevel_ORM.T_Inspection_08_Bevel_ORM"
+                                                                                                               },
+                                                                                            "expressionGUId":  "D5A94692-4AC4-D6DA-E67D-09979AC3E9CB"
+                                                                                        }
+                                                                                    ],
+                                                         "ScalarParameterValues":  [
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Normal Intensity",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  2.5,
+                                                                                           "expressionGUId":  "4780572A-4A18-5C51-521E-D595D3E14A2F"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Opacity Intensity",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  1,
+                                                                                           "expressionGUId":  "16846A63-42C9-EF33-D019-DFA72727FA53"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Min Roughness",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.5,
+                                                                                           "expressionGUId":  "33AF38BF-476A-C867-4562-059C5F4DFE65"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Max Roughness",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.800000011920929,
+                                                                                           "expressionGUId":  "04B8CF59-4579-D5C7-A0E7-F6B36F8786B3"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Specular",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.4000000059604645,
+                                                                                           "expressionGUId":  "F9B55644-4C6B-4751-CF3C-999C84843B25"
+                                                                                       }
+                                                                                   ]
+                                                     },
+                                      "normalSettings":  [
+                                                             {
+                                                                 "SRGB":  false,
+                                                                 "CompressionSettings":  "TC_Normalmap",
+                                                                 "bFlipGreenChannel":  false
+                                                             }
+                                                         ]
+                                  },
+                                  {
+                                      "slot":  9,
+                                      "transform":  {
+                                                        "location":  {
+                                                                         "x":  51462.90639966577,
+                                                                         "y":  115518.94582512233,
+                                                                         "z":  7869.3759009045925
+                                                                     },
+                                                        "rotation":  {
+                                                                         "pitch":  0,
+                                                                         "yaw":  132.378503422691,
+                                                                         "roll":  89.99999999999997
+                                                                     },
+                                                        "scale":  {
+                                                                      "x":  1,
+                                                                      "y":  1,
+                                                                      "z":  1
+                                                                  }
+                                                    },
+                                      "material":  "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_09.MI_Crack_Inspection_09",
+                                      "parameters":  {
+                                                         "Parent":  {
+                                                                        "refPath":  "/Game/Fab/Materials/Standard/M_MS_Decal.M_MS_Decal"
+                                                                    },
+                                                         "TextureParameterValues":  [
+                                                                                        {
+                                                                                            "parameterInfo":  {
+                                                                                                                  "name":  "BaseColorTexture",
+                                                                                                                  "association":  "GlobalParameter",
+                                                                                                                  "index":  -1
+                                                                                                              },
+                                                                                            "parameterValue":  {
+                                                                                                                   "refPath":  "/Game/Buildings/SkybayHotel/InspectionTextures/T_Inspection_09_Bevel_D.T_Inspection_09_Bevel_D"
+                                                                                                               },
+                                                                                            "expressionGUId":  "750E73C4-4F6D-0137-944B-84B0AB603C26"
+                                                                                        },
+                                                                                        {
+                                                                                            "parameterInfo":  {
+                                                                                                                  "name":  "NormalTexture",
+                                                                                                                  "association":  "GlobalParameter",
+                                                                                                                  "index":  -1
+                                                                                                              },
+                                                                                            "parameterValue":  {
+                                                                                                                   "refPath":  "/Game/Buildings/SkybayHotel/InspectionTextures/T_Inspection_09_Bevel_N.T_Inspection_09_Bevel_N"
+                                                                                                               },
+                                                                                            "expressionGUId":  "BCA18AB8-412E-01C7-F3E4-428A1ED47C2E"
+                                                                                        },
+                                                                                        {
+                                                                                            "parameterInfo":  {
+                                                                                                                  "name":  "MetallicRoughnessTexture",
+                                                                                                                  "association":  "GlobalParameter",
+                                                                                                                  "index":  -1
+                                                                                                              },
+                                                                                            "parameterValue":  {
+                                                                                                                   "refPath":  "/Game/Buildings/SkybayHotel/InspectionTextures/T_Inspection_09_Bevel_ORM.T_Inspection_09_Bevel_ORM"
+                                                                                                               },
+                                                                                            "expressionGUId":  "D5A94692-4AC4-D6DA-E67D-09979AC3E9CB"
+                                                                                        }
+                                                                                    ],
+                                                         "ScalarParameterValues":  [
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Normal Intensity",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  2.5,
+                                                                                           "expressionGUId":  "4780572A-4A18-5C51-521E-D595D3E14A2F"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Opacity Intensity",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  1,
+                                                                                           "expressionGUId":  "16846A63-42C9-EF33-D019-DFA72727FA53"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Min Roughness",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.5,
+                                                                                           "expressionGUId":  "33AF38BF-476A-C867-4562-059C5F4DFE65"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Max Roughness",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.800000011920929,
+                                                                                           "expressionGUId":  "04B8CF59-4579-D5C7-A0E7-F6B36F8786B3"
+                                                                                       },
+                                                                                       {
+                                                                                           "atlasData":  {
+                                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                                             "curve":  "None",
+                                                                                                             "atlas":  "None"
+                                                                                                         },
+                                                                                           "parameterInfo":  {
+                                                                                                                 "name":  "Specular",
+                                                                                                                 "association":  "GlobalParameter",
+                                                                                                                 "index":  -1
+                                                                                                             },
+                                                                                           "parameterValue":  0.4000000059604645,
+                                                                                           "expressionGUId":  "F9B55644-4C6B-4751-CF3C-999C84843B25"
+                                                                                       }
+                                                                                   ]
+                                                     },
+                                      "normalSettings":  [
+                                                             {
+                                                                 "SRGB":  false,
+                                                                 "CompressionSettings":  "TC_Normalmap",
+                                                                 "bFlipGreenChannel":  false
+                                                             }
+                                                         ]
+                                  }
+                              ],
+                   "sunTransform":  {
+                                        "location":  {
+                                                         "x":  0,
+                                                         "y":  0,
+                                                         "z":  0
+                                                     },
+                                        "rotation":  {
+                                                         "pitch":  -16.28555899999997,
+                                                         "yaw":  43.731943999999984,
+                                                         "roll":  112.36067199999995
+                                                     },
+                                        "scale":  {
+                                                      "x":  2.5,
+                                                      "y":  2.5,
+                                                      "z":  2.5
+                                                  }
+                                    },
+                   "sun":  {
+                               "Intensity":  6,
+                               "LightColor":  {
+                                                  "r":  1,
+                                                  "g":  1,
+                                                  "b":  1,
+                                                  "a":  1
+                                              },
+                               "bUseTemperature":  true,
+                               "Temperature":  6500,
+                               "IndirectLightingIntensity":  1,
+                               "LightSourceAngle":  0.7357000112533569,
+                               "Mobility":  "Movable"
+                           },
+                   "sky":  {
+                               "Intensity":  1,
+                               "LightColor":  {
+                                                  "r":  1,
+                                                  "g":  1,
+                                                  "b":  1,
+                                                  "a":  1
+                                              },
+                               "bRealTimeCapture":  true,
+                               "Mobility":  "Movable",
+                               "LowerHemisphereColor":  {
+                                                            "r":  0,
+                                                            "g":  0,
+                                                            "b":  0,
+                                                            "a":  1
+                                                        }
+                           }
+               },
+    "after":  {
+                  "sunTransform":  {
+                                       "location":  {
+                                                        "x":  0,
+                                                        "y":  0,
+                                                        "z":  0
+                                                    },
+                                       "rotation":  {
+                                                        "pitch":  -35,
+                                                        "yaw":  -2.6214965773090166,
+                                                        "roll":  1.2133563541552963E-16
+                                                    },
+                                       "scale":  {
+                                                     "x":  2.5,
+                                                     "y":  2.5,
+                                                     "z":  2.5
+                                                 }
+                                   },
+                  "sun":  {
+                              "Intensity":  8,
+                              "Temperature":  6000,
+                              "LightSourceAngle":  1.5
+                          },
+                  "sky":  {
+                              "Intensity":  1.5,
+                              "bRealTimeCapture":  true
+                          },
+                  "normalStrength":  {
+                                         "ScalarParameterValues":  [
+                                                                       {
+                                                                           "atlasData":  {
+                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                             "curve":  "None",
+                                                                                             "atlas":  "None"
+                                                                                         },
+                                                                           "parameterInfo":  {
+                                                                                                 "name":  "Normal Intensity",
+                                                                                                 "association":  "GlobalParameter",
+                                                                                                 "index":  -1
+                                                                                             },
+                                                                           "parameterValue":  2.5,
+                                                                           "expressionGUId":  "4780572A-4A18-5C51-521E-D595D3E14A2F"
+                                                                       },
+                                                                       {
+                                                                           "atlasData":  {
+                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                             "curve":  "None",
+                                                                                             "atlas":  "None"
+                                                                                         },
+                                                                           "parameterInfo":  {
+                                                                                                 "name":  "Opacity Intensity",
+                                                                                                 "association":  "GlobalParameter",
+                                                                                                 "index":  -1
+                                                                                             },
+                                                                           "parameterValue":  1,
+                                                                           "expressionGUId":  "16846A63-42C9-EF33-D019-DFA72727FA53"
+                                                                       },
+                                                                       {
+                                                                           "atlasData":  {
+                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                             "curve":  "None",
+                                                                                             "atlas":  "None"
+                                                                                         },
+                                                                           "parameterInfo":  {
+                                                                                                 "name":  "Min Roughness",
+                                                                                                 "association":  "GlobalParameter",
+                                                                                                 "index":  -1
+                                                                                             },
+                                                                           "parameterValue":  0.5,
+                                                                           "expressionGUId":  "33AF38BF-476A-C867-4562-059C5F4DFE65"
+                                                                       },
+                                                                       {
+                                                                           "atlasData":  {
+                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                             "curve":  "None",
+                                                                                             "atlas":  "None"
+                                                                                         },
+                                                                           "parameterInfo":  {
+                                                                                                 "name":  "Max Roughness",
+                                                                                                 "association":  "GlobalParameter",
+                                                                                                 "index":  -1
+                                                                                             },
+                                                                           "parameterValue":  0.800000011920929,
+                                                                           "expressionGUId":  "04B8CF59-4579-D5C7-A0E7-F6B36F8786B3"
+                                                                       },
+                                                                       {
+                                                                           "atlasData":  {
+                                                                                             "bIsUsedAsAtlasPosition":  false,
+                                                                                             "curve":  "None",
+                                                                                             "atlas":  "None"
+                                                                                         },
+                                                                           "parameterInfo":  {
+                                                                                                 "name":  "Specular",
+                                                                                                 "association":  "GlobalParameter",
+                                                                                                 "index":  -1
+                                                                                             },
+                                                                           "parameterValue":  0.4000000059604645,
+                                                                           "expressionGUId":  "F9B55644-4C6B-4751-CF3C-999C84843B25"
+                                                                       }
+                                                                   ]
+                                     }
+              },
+    "verification":  "All 9 normal connections checked; Fab normals inherited for slots 1-3. All Linear/TC_Normalmap; Fab flipGreen=true, generated DX maps flipGreen=false. Slot7 A/B Normal Intensity 0 vs 2.5 visual response verified and restored. Captured slots1,4,5,7,9. Editor only; separate game/browser not verified."
+}

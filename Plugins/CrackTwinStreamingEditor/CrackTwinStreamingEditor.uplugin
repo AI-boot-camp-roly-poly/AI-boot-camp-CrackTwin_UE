@@ -1,0 +1,13 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "CrackTwin Streaming Panel",
+  "Description": "Local Pixel Streaming launcher for CrackTwin.",
+  "Category": "Editor",
+  "EnabledByDefault": true,
+  "CanContainContent": false,
+  "Modules": [
+    { "Name": "CrackTwinStreamingEditor", "Type": "Editor", "LoadingPhase": "PostEngineInit", "PlatformAllowList": ["Win64"] }
+  ]
+}

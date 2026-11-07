@@ -1,0 +1,558 @@
+{
+  "description": "Nine facade decals distributed across four local faces; world coordinates are a snapshot, use parent-relative transforms for current positions.",
+  "plan": [
+    {
+      "slot": 1,
+      "face": "front",
+      "local": {
+        "location": {
+          "x": -4585,
+          "y": -1200,
+          "z": 8210
+        },
+        "rotation": {
+          "pitch": 0,
+          "yaw": 180,
+          "roll": 0
+        }
+      },
+      "size": {
+        "x": 30,
+        "y": 70,
+        "z": 140
+      }
+    },
+    {
+      "slot": 2,
+      "face": "front",
+      "local": {
+        "location": {
+          "x": -4305,
+          "y": 0,
+          "z": 1410
+        },
+        "rotation": {
+          "pitch": 0,
+          "yaw": 180,
+          "roll": 90
+        }
+      },
+      "size": {
+        "x": 30,
+        "y": 20,
+        "z": 80
+      }
+    },
+    {
+      "slot": 3,
+      "face": "north",
+      "local": {
+        "location": {
+          "x": -2500,
+          "y": 824.99853515625,
+          "z": 5010
+        },
+        "rotation": {
+          "pitch": 0,
+          "yaw": 90,
+          "roll": 0
+        }
+      },
+      "size": {
+        "x": 30,
+        "y": 40,
+        "z": 140
+      }
+    },
+    {
+      "slot": 4,
+      "face": "back",
+      "local": {
+        "location": {
+          "x": 4585,
+          "y": 600,
+          "z": 8210
+        },
+        "rotation": {
+          "pitch": 0,
+          "yaw": 0,
+          "roll": 75
+        }
+      },
+      "size": {
+        "x": 30,
+        "y": 100,
+        "z": 100
+      }
+    },
+    {
+      "slot": 5,
+      "face": "south",
+      "local": {
+        "location": {
+          "x": -3000,
+          "y": -2805.002197265625,
+          "z": 8210
+        },
+        "rotation": {
+          "pitch": 0,
+          "yaw": -90,
+          "roll": 105
+        }
+      },
+      "size": {
+        "x": 30,
+        "y": 110,
+        "z": 110
+      }
+    },
+    {
+      "slot": 6,
+      "face": "south",
+      "local": {
+        "location": {
+          "x": 3000,
+          "y": -2545.002197265625,
+          "z": 7410
+        },
+        "rotation": {
+          "pitch": 0,
+          "yaw": -90,
+          "roll": 90
+        }
+      },
+      "size": {
+        "x": 30,
+        "y": 100,
+        "z": 100
+      }
+    },
+    {
+      "slot": 7,
+      "face": "north",
+      "local": {
+        "location": {
+          "x": 0,
+          "y": 1244.997802734375,
+          "z": 7410
+        },
+        "rotation": {
+          "pitch": 0,
+          "yaw": 90,
+          "roll": 80
+        }
+      },
+      "size": {
+        "x": 30,
+        "y": 110,
+        "z": 110
+      }
+    },
+    {
+      "slot": 8,
+      "face": "front",
+      "local": {
+        "location": {
+          "x": -4205,
+          "y": -1000,
+          "z": 3950
+        },
+        "rotation": {
+          "pitch": 0,
+          "yaw": 180,
+          "roll": 90
+        }
+      },
+      "size": {
+        "x": 30,
+        "y": 15,
+        "z": 90
+      }
+    },
+    {
+      "slot": 9,
+      "face": "north",
+      "local": {
+        "location": {
+          "x": 3000,
+          "y": 864.99951171875,
+          "z": 1410
+        },
+        "rotation": {
+          "pitch": 0,
+          "yaw": 90,
+          "roll": 90
+        }
+      },
+      "size": {
+        "x": 30,
+        "y": 65,
+        "z": 80
+      }
+    }
+  ],
+  "verification": {
+    "points": [
+      {
+        "slot": 1,
+        "actor": {
+          "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.DecalActor_0"
+        },
+        "transform": {
+          "location": {
+            "x": 37923.45651239277,
+            "y": 103496.70198342281,
+            "z": 13829.375900904593
+          },
+          "rotation": {
+            "pitch": -3.99867952896922e-15,
+            "yaw": -137.62149657730893,
+            "roll": -1.69449775171234e-15
+          },
+          "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          }
+        },
+        "tags": [
+          "CrackInspection.1"
+        ],
+        "parent": {
+          "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0"
+        },
+        "decal": {
+          "DecalMaterial": {
+            "refPath": "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_Branch.MI_Crack_Inspection_Branch"
+          },
+          "DecalSize": {
+            "x": 30,
+            "y": 70,
+            "z": 140
+          }
+        },
+        "traceDistance": 505.0000305175781
+      },
+      {
+        "slot": 2,
+        "actor": {
+          "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.DecalActor_1"
+        },
+        "transform": {
+          "location": {
+            "x": 37321.46449170677,
+            "y": 104571.87899537498,
+            "z": 7029.3759009045925
+          },
+          "rotation": {
+            "pitch": 0,
+            "yaw": -137.62149657730893,
+            "roll": 89.99999999999991
+          },
+          "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          }
+        },
+        "tags": [
+          "CrackInspection.2"
+        ],
+        "parent": {
+          "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0"
+        },
+        "decal": {
+          "DecalMaterial": {
+            "refPath": "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_Line.MI_Crack_Inspection_Line"
+          },
+          "DecalSize": {
+            "x": 30,
+            "y": 20,
+            "z": 80
+          }
+        },
+        "traceDistance": 505.0000305175781
+      },
+      {
+        "slot": 3,
+        "actor": {
+          "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.DecalActor_2"
+        },
+        "transform": {
+          "location": {
+            "x": 38098.76306228981,
+            "y": 106397.92787620472,
+            "z": 10629.375900904593
+          },
+          "rotation": {
+            "pitch": -1.6944977517123417e-15,
+            "yaw": 132.37850342269107,
+            "roll": 3.998679528969224e-15
+          },
+          "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          }
+        },
+        "tags": [
+          "CrackInspection.3"
+        ],
+        "parent": {
+          "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0"
+        },
+        "decal": {
+          "DecalMaterial": {
+            "refPath": "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_Line.MI_Crack_Inspection_Line"
+          },
+          "DecalSize": {
+            "x": 30,
+            "y": 40,
+            "z": 140
+          }
+        },
+        "traceDistance": 504.9999084472656
+      },
+      {
+        "slot": 4,
+        "actor": {
+          "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.DecalActor_3"
+        },
+        "transform": {
+          "location": {
+            "x": 43484.1659094572,
+            "y": 111007.18871874159,
+            "z": 13829.375900904593
+          },
+          "rotation": {
+            "pitch": 6.3611093629270335e-15,
+            "yaw": 42.378503422691026,
+            "roll": 74.99999999999993
+          },
+          "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          }
+        },
+        "tags": [
+          "CrackInspection.4"
+        ],
+        "parent": {
+          "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0"
+        },
+        "decal": {
+          "DecalMaterial": {
+            "refPath": "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_04.MI_Crack_Inspection_04"
+          },
+          "DecalSize": {
+            "x": 30,
+            "y": 100,
+            "z": 100
+          }
+        },
+        "traceDistance": 505.0000305175781
+      },
+      {
+        "slot": 5,
+        "actor": {
+          "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.DecalActor_4"
+        },
+        "transform": {
+          "location": {
+            "x": 40176.12119082705,
+            "y": 103379.40364685297,
+            "z": 13829.375900904593
+          },
+          "rotation": {
+            "pitch": 0,
+            "yaw": -47.621496577308925,
+            "roll": 105.00000000000003
+          },
+          "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          }
+        },
+        "tags": [
+          "CrackInspection.5"
+        ],
+        "parent": {
+          "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0"
+        },
+        "decal": {
+          "DecalMaterial": {
+            "refPath": "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_05.MI_Crack_Inspection_05"
+          },
+          "DecalSize": {
+            "x": 30,
+            "y": 110,
+            "z": 110
+          }
+        },
+        "traceDistance": 505
+      },
+      {
+        "slot": 6,
+        "actor": {
+          "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.DecalActor_5"
+        },
+        "transform": {
+          "location": {
+            "x": 44433.12428248866,
+            "y": 107615.61949092697,
+            "z": 13029.375900904593
+          },
+          "rotation": {
+            "pitch": -3.1805546814635168e-15,
+            "yaw": -47.62149657730894,
+            "roll": 90
+          },
+          "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          }
+        },
+        "tags": [
+          "CrackInspection.6"
+        ],
+        "parent": {
+          "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0"
+        },
+        "decal": {
+          "DecalMaterial": {
+            "refPath": "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_06.MI_Crack_Inspection_06"
+          },
+          "DecalSize": {
+            "x": 30,
+            "y": 100,
+            "z": 100
+          }
+        },
+        "traceDistance": 505
+      },
+      {
+        "slot": 7,
+        "actor": {
+          "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.DecalActor_6"
+        },
+        "transform": {
+          "location": {
+            "x": 39662.4436312669,
+            "y": 108393.24801667582,
+            "z": 13029.375900904593
+          },
+          "rotation": {
+            "pitch": -3.1805546814635168e-15,
+            "yaw": 132.37850342269107,
+            "roll": 80
+          },
+          "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          }
+        },
+        "tags": [
+          "CrackInspection.7"
+        ],
+        "parent": {
+          "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0"
+        },
+        "decal": {
+          "DecalMaterial": {
+            "refPath": "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_07.MI_Crack_Inspection_07"
+          },
+          "DecalSize": {
+            "x": 30,
+            "y": 110,
+            "z": 110
+          }
+        },
+        "traceDistance": 504.9999084472656
+      },
+      {
+        "slot": 8,
+        "actor": {
+          "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.DecalActor_7"
+        },
+        "transform": {
+          "location": {
+            "x": 38069.3606014439,
+            "y": 103900.57324607734,
+            "z": 9569.375900904592
+          },
+          "rotation": {
+            "pitch": -6.3611093629270335e-15,
+            "yaw": -137.62149657730893,
+            "roll": 89.99999999999993
+          },
+          "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          }
+        },
+        "tags": [
+          "CrackInspection.8"
+        ],
+        "parent": {
+          "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0"
+        },
+        "decal": {
+          "DecalMaterial": {
+            "refPath": "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_08.MI_Crack_Inspection_08"
+          },
+          "DecalSize": {
+            "x": 30,
+            "y": 15,
+            "z": 90
+          }
+        },
+        "traceDistance": 505.0000305175781
+      },
+      {
+        "slot": 9,
+        "actor": {
+          "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.DecalActor_8"
+        },
+        "transform": {
+          "location": {
+            "x": 42134.69691901265,
+            "y": 110134.61597963056,
+            "z": 7029.3759009045925
+          },
+          "rotation": {
+            "pitch": 0,
+            "yaw": 132.378503422691,
+            "roll": 89.99999999999997
+          },
+          "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          }
+        },
+        "tags": [
+          "CrackInspection.9"
+        ],
+        "parent": {
+          "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0"
+        },
+        "decal": {
+          "DecalMaterial": {
+            "refPath": "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_09.MI_Crack_Inspection_09"
+          },
+          "DecalSize": {
+            "x": 30,
+            "y": 65,
+            "z": 80
+          }
+        },
+        "traceDistance": 504.9999084472656
+      }
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "count": 9,
+  "points": [
+    {
+      "actor": {
+        "refPath": "/Game/Maps/L_DemoBuilding.L_DemoBuilding:PersistentLevel.DecalActor_0"
+      },
+      "tags": [
+        "CrackInspection.1"
+      ],
+      "transform": {
+        "location": {
+          "x": -4585,
+          "y": -1200,
+          "z": 8200
+        },
+        "rotation": {
+          "pitch": 0,
+          "yaw": 180,
+          "roll": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      },
+      "decal": {
+        "DecalMaterial": {
+          "refPath": "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_Branch.MI_Crack_Inspection_Branch"
+        },
+        "DecalSize": {
+          "x": 35,
+          "y": 70,
+          "z": 140
+        }
+      }
+    },
+    {
+      "actor": {
+        "refPath": "/Game/Maps/L_DemoBuilding.L_DemoBuilding:PersistentLevel.DecalActor_1"
+      },
+      "tags": [
+        "CrackInspection.2"
+      ],
+      "transform": {
+        "location": {
+          "x": -4305,
+          "y": 0,
+          "z": 1400
+        },
+        "rotation": {
+          "pitch": 0,
+          "yaw": 180,
+          "roll": 89.99999999999997
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      },
+      "decal": {
+        "DecalMaterial": {
+          "refPath": "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_Line.MI_Crack_Inspection_Line"
+        },
+        "DecalSize": {
+          "x": 30,
+          "y": 20,
+          "z": 80
+        }
+      }
+    },
+    {
+      "actor": {
+        "refPath": "/Game/Maps/L_DemoBuilding.L_DemoBuilding:PersistentLevel.DecalActor_2"
+      },
+      "tags": [
+        "CrackInspection.3"
+      ],
+      "transform": {
+        "location": {
+          "x": -4585,
+          "y": -400,
+          "z": 8200
+        },
+        "rotation": {
+          "pitch": 0,
+          "yaw": 180,
+          "roll": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      },
+      "decal": {
+        "DecalMaterial": {
+          "refPath": "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_Line.MI_Crack_Inspection_Line"
+        },
+        "DecalSize": {
+          "x": 45,
+          "y": 40,
+          "z": 160
+        }
+      }
+    },
+    {
+      "actor": {
+        "refPath": "/Game/Maps/L_DemoBuilding.L_DemoBuilding:PersistentLevel.DecalActor_3"
+      },
+      "tags": [
+        "CrackInspection.4"
+      ],
+      "transform": {
+        "location": {
+          "x": -4400.000892291918,
+          "y": -2000.1142279918117,
+          "z": 7400
+        },
+        "rotation": {
+          "pitch": 0,
+          "yaw": -178.69092974458678,
+          "roll": 90.00000000000006
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      },
+      "decal": {
+        "DecalMaterial": {
+          "refPath": "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_04.MI_Crack_Inspection_04"
+        },
+        "DecalSize": {
+          "x": 40,
+          "y": 105,
+          "z": 105
+        }
+      }
+    },
+    {
+      "actor": {
+        "refPath": "/Game/Maps/L_DemoBuilding.L_DemoBuilding:PersistentLevel.DecalActor_4"
+      },
+      "tags": [
+        "CrackInspection.5"
+      ],
+      "transform": {
+        "location": {
+          "x": -4405,
+          "y": -1000,
+          "z": 7400
+        },
+        "rotation": {
+          "pitch": 0,
+          "yaw": 180,
+          "roll": 89.99999999999997
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      },
+      "decal": {
+        "DecalMaterial": {
+          "refPath": "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_05.MI_Crack_Inspection_05"
+        },
+        "DecalSize": {
+          "x": 40,
+          "y": 105,
+          "z": 105
+        }
+      }
+    },
+    {
+      "actor": {
+        "refPath": "/Game/Maps/L_DemoBuilding.L_DemoBuilding:PersistentLevel.DecalActor_5"
+      },
+      "tags": [
+        "CrackInspection.6"
+      ],
+      "transform": {
+        "location": {
+          "x": -4405,
+          "y": 0,
+          "z": 7400
+        },
+        "rotation": {
+          "pitch": 0,
+          "yaw": 180,
+          "roll": 89.99999999999997
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      },
+      "decal": {
+        "DecalMaterial": {
+          "refPath": "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_06.MI_Crack_Inspection_06"
+        },
+        "DecalSize": {
+          "x": 40,
+          "y": 105,
+          "z": 105
+        }
+      }
+    },
+    {
+      "actor": {
+        "refPath": "/Game/Maps/L_DemoBuilding.L_DemoBuilding:PersistentLevel.DecalActor_6"
+      },
+      "tags": [
+        "CrackInspection.7"
+      ],
+      "transform": {
+        "location": {
+          "x": -4585,
+          "y": 600,
+          "z": 8200
+        },
+        "rotation": {
+          "pitch": 0,
+          "yaw": 180,
+          "roll": 89.99999999999997
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      },
+      "decal": {
+        "DecalMaterial": {
+          "refPath": "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_07.MI_Crack_Inspection_07"
+        },
+        "DecalSize": {
+          "x": 40,
+          "y": 105,
+          "z": 105
+        }
+      }
+    },
+    {
+      "actor": {
+        "refPath": "/Game/Maps/L_DemoBuilding.L_DemoBuilding:PersistentLevel.DecalActor_7"
+      },
+      "tags": [
+        "CrackInspection.8"
+      ],
+      "transform": {
+        "location": {
+          "x": -4566.421241995056,
+          "y": -2200.4619440055385,
+          "z": 8200
+        },
+        "rotation": {
+          "pitch": -3.975693351829396e-16,
+          "yaw": -174.69895195248128,
+          "roll": 90.00000000000003
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      },
+      "decal": {
+        "DecalMaterial": {
+          "refPath": "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_08.MI_Crack_Inspection_08"
+        },
+        "DecalSize": {
+          "x": 40,
+          "y": 105,
+          "z": 105
+        }
+      }
+    },
+    {
+      "actor": {
+        "refPath": "/Game/Maps/L_DemoBuilding.L_DemoBuilding:PersistentLevel.DecalActor_8"
+      },
+      "tags": [
+        "CrackInspection.9"
+      ],
+      "transform": {
+        "location": {
+          "x": -4303.436396642977,
+          "y": 1002.9302328183977,
+          "z": 7400
+        },
+        "rotation": {
+          "pitch": -3.1805546814635168e-15,
+          "yaw": 144.12304060704406,
+          "roll": 89.99999999999999
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      },
+      "decal": {
+        "DecalMaterial": {
+          "refPath": "/Game/Buildings/SkybayHotel/MI_Crack_Inspection_09.MI_Crack_Inspection_09"
+        },
+        "DecalSize": {
+          "x": 40,
+          "y": 105,
+          "z": 105
+        }
+      }
+    }
+  ],
+  "levelDirty": false
+}

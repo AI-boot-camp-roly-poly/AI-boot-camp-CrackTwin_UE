@@ -1,0 +1,240 @@
+{
+  "status": "saved_with_user_approval",
+  "parentBuilding": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.StaticMeshActor_1",
+  "points": [
+    {
+      "slot": 1,
+      "actor": {
+        "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.DecalActor_0"
+      },
+      "transform": {
+        "location": {
+          "x": 30860.892405420178,
+          "y": 109100.6083458546,
+          "z": 13319.375160904594
+        },
+        "rotation": {
+          "pitch": -3.998679528969221e-15,
+          "yaw": -137.6214965773089,
+          "roll": -1.6944977517123404e-15
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      },
+      "parent": {
+        "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0"
+      }
+    },
+    {
+      "slot": 2,
+      "actor": {
+        "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.DecalActor_1"
+      },
+      "transform": {
+        "location": {
+          "x": 30258.900384734185,
+          "y": 110175.78535780677,
+          "z": 6519.375160904592
+        },
+        "rotation": {
+          "pitch": -6.3611093629270335e-15,
+          "yaw": -137.62149657730893,
+          "roll": 89.99999999999993
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      },
+      "parent": {
+        "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0"
+      }
+    },
+    {
+      "slot": 3,
+      "actor": {
+        "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.DecalActor_2"
+      },
+      "transform": {
+        "location": {
+          "x": 30321.672179830188,
+          "y": 109691.57496785172,
+          "z": 13319.375160904594
+        },
+        "rotation": {
+          "pitch": -3.998679528969221e-15,
+          "yaw": -137.6214965773089,
+          "roll": -1.6944977517123404e-15
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      },
+      "parent": {
+        "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0"
+      }
+    },
+    {
+      "slot": 4,
+      "actor": {
+        "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.DecalActor_3"
+      },
+      "transform": {
+        "location": {
+          "x": 31536.84999575797,
+          "y": 108634.25141843478,
+          "z": 12519.375160904594
+        },
+        "rotation": {
+          "pitch": -3.1805546814635168e-15,
+          "yaw": -136.3124263218957,
+          "roll": 90.00000000000001
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      },
+      "parent": {
+        "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0"
+      }
+    },
+    {
+      "slot": 5,
+      "actor": {
+        "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.DecalActor_4"
+      },
+      "transform": {
+        "location": {
+          "x": 30859.05483897203,
+          "y": 109369.67455211162,
+          "z": 12519.375160904594
+        },
+        "rotation": {
+          "pitch": -6.3611093629270335e-15,
+          "yaw": -137.62149657730893,
+          "roll": 89.99999999999993
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      },
+      "parent": {
+        "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0"
+      }
+    },
+    {
+      "slot": 6,
+      "actor": {
+        "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.DecalActor_5"
+      },
+      "transform": {
+        "location": {
+          "x": 30185.029556984544,
+          "y": 110108.38282960802,
+          "z": 12519.375160904594
+        },
+        "rotation": {
+          "pitch": -6.3611093629270335e-15,
+          "yaw": -137.62149657730893,
+          "roll": 89.99999999999993
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      },
+      "parent": {
+        "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0"
+      }
+    },
+    {
+      "slot": 7,
+      "actor": {
+        "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.DecalActor_6"
+      },
+      "transform": {
+        "location": {
+          "x": 29647.6468978427,
+          "y": 110430.28324534811,
+          "z": 13319.375160904594
+        },
+        "rotation": {
+          "pitch": -6.3611093629270335e-15,
+          "yaw": -137.62149657730893,
+          "roll": 89.99999999999993
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      },
+      "parent": {
+        "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0"
+      }
+    },
+    {
+      "slot": 8,
+      "actor": {
+        "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.DecalActor_7"
+      },
+      "transform": {
+        "location": {
+          "x": 31548.953331670116,
+          "y": 108374.08137910084,
+          "z": 13319.375160904594
+        },
+        "rotation": {
+          "pitch": 0,
+          "yaw": -132.32044852979024,
+          "roll": 90.00000000000006
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      },
+      "parent": {
+        "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0"
+      }
+    },
+    {
+      "slot": 9,
+      "actor": {
+        "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.DecalActor_8"
+      },
+      "transform": {
+        "location": {
+          "x": 29584.055098487537,
+          "y": 110917.71213073474,
+          "z": 12519.375160904594
+        },
+        "rotation": {
+          "pitch": -5.565970692561154e-15,
+          "yaw": -173.49845597026484,
+          "roll": 89.99999999999997
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      },
+      "parent": {
+        "refPath": "/Game/DynamicMeshCreator/Map/Main.Main:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0"
+      }
+    }
+  ]
+}
